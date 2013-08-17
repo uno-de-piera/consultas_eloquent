@@ -1,9 +1,7 @@
 </h1>Usage</h1>
 
+
 <?php
- 
-require 'gfm.php';
- 
 class Test extends PHPUnit_Framework_TestCase{
 	
 	public function testShouldNotTouchSingleUnderscoresInsideWords(){
@@ -11,3 +9,4 @@ class Test extends PHPUnit_Framework_TestCase{
 	}
 
 }
+?>
