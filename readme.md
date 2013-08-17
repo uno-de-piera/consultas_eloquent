@@ -1,6 +1,6 @@
 <?php
  
-require 'gfm.php';
+require 'gmf.php';
  
 class GFMTest extends PHPUnit_Framework_TestCase{
 	
